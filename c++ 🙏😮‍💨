@@ -1,0 +1,8 @@
+#include <iostream>
+
+int main() {
+
+    std::cout << "lolol c++ is hard i got this from a yt" << std::endl;
+
+    return 0;
+}
